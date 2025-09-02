@@ -1,0 +1,25 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large data / video / archives
+*.mp4
+*.avi
+*.mov
+*.rar
+*.zip
+*.tar.gz
+
+# Model & pickle files
+*.pkl
+*.h5
+*.joblib
+
+# Logs
+logs/
+*.log
+
+# System/IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
