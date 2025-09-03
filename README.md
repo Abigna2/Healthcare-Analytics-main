@@ -21,3 +21,70 @@ Hospital admission data was analyzed to accurately predict the patient’s Lengt
 
 -	A dense neural network with 6 layers which yields an accuracy of 42.5%.
 
+  # 🏥 Patient Outcome Prediction: Improving Healthcare Decisions with Data Analytics
+
+
+
+## 🎯 Objectives
+- Predict patient outcomes using clinical and demographic data.  
+- Identify significant risk factors that influence health outcomes.  
+- Support healthcare professionals in **evidence-based decision making**.  
+- Demonstrate how data-driven approaches can enhance patient care.  
+
+---
+
+## 📂 Dataset
+- Patient data with features like:  
+  - Age, Gender, Medical history  
+  - Diagnosis & treatment details  
+  - Lab results and clinical observations  
+- Target variable: **Patient Outcome** (e.g., Recovered / Not Recovered / Risk category).  
+
+> ⚠️ Note: All data used is anonymized and for research/academic purposes only.
+
+---
+
+## 🛠️ Tools & Technologies
+- **Programming:** Python 🐍  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Models:** Logistic Regression, Decision Trees, Random Forest, XGBoost  
+- **Visualization:** Graphs, heatmaps, feature importance plots  
+
+---
+
+## 🔎 Methodology
+1. **Data Preprocessing**
+   - Handling missing data, normalization, encoding categorical variables  
+2. **Exploratory Data Analysis (EDA)**
+   - Visualization of feature distributions, correlation analysis  
+3. **Model Building**
+   - Train/test split, applying multiple ML models  
+4. **Evaluation**
+   - Accuracy, Precision, Recall, F1-Score, Confusion Matrix  
+5. **Insights**
+   - Identify critical features that affect patient outcomes  
+
+---
+
+## 📊 Results
+- Best-performing model: **[Insert your model name & accuracy here]**  
+- Achieved **XX% accuracy** on test data.  
+- Key influencing factors: **[Top 3–5 features from your results]**  
+
+---
+
+## 🚀 How to Run
+```bash
+# Clone this repo
+git clone https://github.com/Abigna2/Healthcare-Analytics.git
+
+# Navigate into the project folder
+cd Healthcare-Analytic
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run Jupyter Notebook
+jupyter notebook
+
+
